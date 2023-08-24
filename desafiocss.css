@@ -1,0 +1,97 @@
+body {
+    text-align: center;
+    margin: 0; /* Adicione isso para remover margens padrão */
+}
+
+h1 {
+    color: #3F3D56;
+    font-family: Dosis;
+    font-size: 32px;
+    font-style: normal;
+}
+
+span {
+    color: #ee24ff;
+    width: 540px;
+    height: 107px;
+}
+
+p {
+    color: #828282;
+    text-align: center; 
+    font-family: Open Sans;
+    font-size: 14px;
+    font-weight: 400px;
+    line-height: 22px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 540px;
+    height: 107px;
+}
+
+#dois {
+    color: #3F3D56;
+}
+
+#tres {
+    color: #828282;
+}
+
+#quatro {
+    color: #3F3D56;
+    text-align: center;
+}
+
+#especial {
+    margin-top: 32px; 
+    margin-bottom: 10px; 
+    width: 626px;
+    height: 21px;
+}
+
+#espacinho {
+    width: 1024px;
+    padding: 20px;
+}
+
+footer {
+    color: #3F3D56;
+    font-family: Open Sans;
+    font-size: 15px; 
+    font-weight: 700px;
+    margin-top: 10px; /* Espaçamento acima */
+    margin-bottom: 10px; /* Espaçamento abaixo */
+    justify-content: space-between;
+}
+
+
+#line {
+    width: 391px;
+    height: 0px;
+    margin: auto;
+    border: 1px solid #eceff2;
+}
+
+#wave {
+    position: fixed;
+    bottom: 0;
+    left: 50%; /* Posiciona o elemento a partir do meio da tela */
+    transform: translateX(-50%); /* Move o elemento de volta pela metade da largura dele */
+    text-align: center;
+    width: 100%; /* Define a largura do elemento para ocupar a largura total da tela */
+    height: 80px;
+}
+
+#img {
+    height: 238px;
+    width: 350px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+footer a {
+    margin-left: 42px;
+    text-decoration: none;
+}
